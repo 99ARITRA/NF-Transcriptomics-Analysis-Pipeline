@@ -1,0 +1,7 @@
+PROJECT,SAMPLE,TYPE,R1,R2
+DMEL_HT,SRR073273,fem_br1,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073273_1.fastq.gz,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073273_2.fastq.gz
+DMEL_HT,SRR073278,fem_br2,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073278_1.fastq.gz,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073278_2.fastq.gz
+DMEL_HT,SRR073280,fem_br3,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073280_1.fastq.gz,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073280_2.fastq.gz
+DMEL_HT,SRR073282,male_br1,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073282_1.fastq.gz,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073282_2.fastq.gz
+DMEL_HT,SRR073284,male_br2,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073284_1.fastq.gz,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073284_2.fastq.gz
+DMEL_HT,SRR073287,male_br3,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073287_1.fastq.gz,/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/WTS/samples/SRR073287_2.fastq.gz

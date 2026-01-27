@@ -1,0 +1,7 @@
+name: samtools
+Channel:
+  - bioconda
+  - conda-forge
+Dependencies:
+  - htslib=1.22
+  - samtools=1.22
