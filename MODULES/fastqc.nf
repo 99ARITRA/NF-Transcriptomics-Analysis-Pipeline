@@ -3,7 +3,7 @@ process FASTQC {
     cpus 2
     memory 1.GB
     maxForks 3
-    publishDir "$params.outDir/$meta.project/qc_reports", mode: 'copy', pattern: "*.{html, zip}"
+    publishDir "$params.outDir/$meta.project/QCreports", mode: 'copy', pattern: "*.{html, zip}"
 
     input:
     tuple val(meta), path(R1), path(R2)

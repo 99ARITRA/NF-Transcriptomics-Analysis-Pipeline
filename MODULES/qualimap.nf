@@ -1,7 +1,7 @@
 process QUALIMAP {
     tag "PROJECT ($meta.project) SAMPLE : $meta.sample"
     maxForks 1
-    publishDir "$params.outDir/$meta.project/bam_reports", mode: 'copy'
+    publishDir "$params.outDir/$meta.project/bamQC_reports", mode: 'copy'
 
     input:
     tuple val(meta), path(bam)

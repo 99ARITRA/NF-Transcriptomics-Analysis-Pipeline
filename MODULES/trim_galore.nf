@@ -5,7 +5,7 @@ process TRIMGALORE {
     maxForks 3
     // publishDir "params.outDir/$meta.project/fastqc_reports", mode: 'copy'
     // publishDir "$params.outDir/$meta.project/trimmed_files", mode: 'copy', pattern: "*.{fq.gz}"
-    publishDir "$params.outDir/$meta.project/qc_files", mode: 'copy', pattern: "*.{html, zip, txt}"
+    publishDir "$params.outDir/$meta.project/QCreports", mode: 'copy', pattern: "*.{html, zip, txt}"
 
     input:
     tuple val(meta), path(fq1), path(fq2)
