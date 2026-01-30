@@ -1,6 +1,6 @@
 {
   "rna_samplesheet": "rna_samplesheet.csv",
-  "genome": "/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/refs/dmel-all-chromosome-r6.60.fasta",
-  "gtf": "/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/refs/dmel-all-r6.60.gtf",
-  "outDir": "/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS"
+  "genome": "/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/refs/dmel_chrX.fasta",
+  "gtf": "/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/refs/dmel_chrX.gtf",
+  "outDir": "/mnt/d/Bioinformatics/NGS/TRANSCRIPTOMICS/NF_TRAP_OUTPUT"
 }
