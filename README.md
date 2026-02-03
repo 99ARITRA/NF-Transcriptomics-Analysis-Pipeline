@@ -9,10 +9,7 @@ A nextflow pipeline for the analysis of RNAseq data
 ## Installation steps
   1. Check java version (required Java 17) `java -version`
   2. Install and set up nextflow
-     `curl -s https://get.nextflow.io | bash \n
-     chmod +x nextflow \n
-     mkdir -p $HOME/.local/bin/ \n
-     mv nextflow $HOME/.local/bin/`
+     `curl -s https://get.nextflow.io | bash > chmod +x nextflow \n > mkdir -p $HOME/.local/bin/ \n > mv nextflow $HOME/.local/bin/`
   4. Install conda and Docker.
   5. Fetch the repository `git clone https://github.com/99ARITRA/NF-Transcriptomics-Analysis-Pipeline.git`
   6. Run the pipeline as per "pipeline execution".
